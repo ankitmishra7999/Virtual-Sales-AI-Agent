@@ -124,7 +124,7 @@ Follow these steps to set up and run the Virtual Sales Agent:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/lucasboscatti/sales-ai-agent-langgraph.git
+   git clone https://github.com/ankitmishra7999/sales-ai-agent-langgraph.git
    cd virtual-sales-agent
    ```
 
